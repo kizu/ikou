@@ -1,3 +1,3 @@
-# ikou
+# Komichi
 
 One small project, yay!
